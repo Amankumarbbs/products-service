@@ -1,0 +1,15 @@
+com/products/service/catalog/repository/ProductRepository.class
+com/products/service/catalog/dto/ProductDTO.class
+com/products/service/catalog/service/ProductService.class
+com/products/service/catalog/api/controllers/ProductController.class
+com/products/service/catalog/utils/BooleanDeserializer.class
+com/products/service/catalog/api/exceptionHandler/CustomExceptionHandler.class
+com/products/service/catalog/config/CustomObjectMapperConfig.class
+com/products/service/catalog/api/exceptionHandler/ProductAlreadyExistsException.class
+com/products/service/catalog/response/ProductItemResponse.class
+com/products/service/catalog/config/CacheConfig.class
+com/products/service/catalog/request/ProductListingFilterRequestForDb.class
+com/products/service/catalog/entity/Product.class
+com/products/service/catalog/ProductCatalogApplication.class
+com/products/service/catalog/response/DataResponse.class
+com/products/service/catalog/request/ProductListingFilterRequest.class

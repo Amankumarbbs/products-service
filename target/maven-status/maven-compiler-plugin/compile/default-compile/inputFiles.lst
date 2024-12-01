@@ -1,0 +1,15 @@
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/ProductCatalogApplication.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/api/controllers/ProductController.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/api/exceptionHandler/CustomExceptionHandler.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/api/exceptionHandler/ProductAlreadyExistsException.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/config/CacheConfig.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/config/CustomObjectMapperConfig.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/dto/ProductDTO.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/entity/Product.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/repository/ProductRepository.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/request/ProductListingFilterRequest.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/request/ProductListingFilterRequestForDb.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/response/DataResponse.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/response/ProductItemResponse.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/service/ProductService.java
+/Users/aman.kumar/Desktop/BE /products-service/trial/product-catalog/src/main/java/com/products/service/catalog/utils/BooleanDeserializer.java
